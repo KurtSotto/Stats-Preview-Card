@@ -83,7 +83,7 @@ p{
     height: 400px;
     background-position: center;
     background-size: cover;
-    background-image: linear-gradient(0deg, hsla(277, 71%, 33%, 0.5), hsla(277, 71%, 33%, 0.5)), url(/stats-preview-card/image/image-header-desktop.jpg);
+    background-image: linear-gradient(0deg, hsla(277, 71%, 33%, 0.5), hsla(277, 71%, 33%, 0.5)), url(/image/image-header-desktop.jpg);
 }
 
 
